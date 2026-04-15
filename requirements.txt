@@ -1,4 +1,4 @@
-fastapi
-uvicorn
-pandas
-yfinance
+fastapi>=0.100
+uvicorn>=0.20
+pandas>=1.5
+yfinance>=0.2
